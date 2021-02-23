@@ -1,0 +1,31 @@
+/* body { margin: 0px; padding: 0px; font-size: 16px; font-family: sans-serif;}
+
+
+.middel {  padding: 10px; background: chartreuse;display: flex; flex-wrap: wrap; justify-content: center; }
+.middel h1 { margin: 0px;display: flex; flex-wrap: wrap; align-items: center; color: crimson;}
+.middel h1 p {padding-left: 15px; color: blueviolet;}  */
+
+/* body{
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right,red,yellow);
+}
+
+h1{
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    width: 100%;
+
+}
+h3{
+    
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01rem;
+} */
